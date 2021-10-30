@@ -1,7 +1,7 @@
-var name = 'Vic';
-console.log(name);
-name = 'Vic3'
-console.log(name);
+var names = 'Vic';
+console.log(names);
+names = 'Vic3'
+console.log(names);
 
 
 let name1 = 'Vic1';
