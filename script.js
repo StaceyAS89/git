@@ -1,8 +1,7 @@
-var names = 'Vic';
-console.log(names);
-names = 'Vic3'
-console.log(names);
+function hello(name) {
+let phrase = `Hello, ${name}!`;
+}
 
-
-let name1 = 'Vic1';
-const name1 = 'Vic1';
+function say(phrase) {
+alert(`** ${phrase} **`);
+}
